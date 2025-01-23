@@ -1,4 +1,4 @@
-## Hello World! I'm Gustavo, welcome! 😄
+## 🖐 Hello World! I'm Gustavo!
 
 Computer Science student with a passion for challenges and problem-solving. Always eager to learn and apply knowledge, I strive to develop efficient and creative solutions that contribute to the success of the projects I am involved in. I believe technology is the key to transforming ideas into real-world impact 🌍💡
 
