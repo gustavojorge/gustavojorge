@@ -1,19 +1,6 @@
 ## Hello World! I'm Gustavo, welcome! 😄
 
-<!--
-**gustavojorge/gustavojorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 Computer Science student with a passion for challenges and problem-solving. Always eager to learn and apply knowledge, I strive to develop efficient and creative solutions that contribute to the success of the projects I am involved in. I believe technology is the key to transforming ideas into real-world impact 🌍💡
 
@@ -31,19 +18,59 @@ Computer Science student with a passion for challenges and problem-solving. Alwa
 <br />
 
 <div style="display: flex;">
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavojorge&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Fraga GitHub stats" />
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojorge&layout=compact&theme=dracula"/>
+    <img width="49%" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=gustavojorge&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Fraga GitHub stats" 
+    />
+    <img width="49%" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojorge&layout=compact&theme=dracula"
+    />
 </div>
 
-##
+---
 
 ### Languages and Tools
 
-<div align="left" style="display: inline_block">
-  <img align="center" alt="cplusplus" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />   
-  <img align="center" alt="spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />   
-  <img align="center" alt="dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-  <img align="center" alt="flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />          
-</div>
+  <img 
+    align="left" 
+    alt="cplusplus" 
+    title="cplusplus" 
+    height="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+  />
 
+  <img 
+    align="left" 
+    alt="java" 
+    title="java"
+    height="40" 
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />   
+
+  <img 
+    align="left" 
+    alt="spring" 
+    title="springboot"
+    height="40" 
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+  />  
+
+  <img 
+    align="left" 
+      alt="dart" 
+      title="dart" 
+      height="40" 
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+  />
+
+  <img 
+    align="left" 
+    alt="flutter" 
+    title="flutter" 
+    height="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+  />          
