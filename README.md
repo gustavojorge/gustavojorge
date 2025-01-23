@@ -1,7 +1,5 @@
 ## Hello World! I'm Gustavo, welcome! 😄
 
-
-
 Computer Science student with a passion for challenges and problem-solving. Always eager to learn and apply knowledge, I strive to develop efficient and creative solutions that contribute to the success of the projects I am involved in. I believe technology is the key to transforming ideas into real-world impact 🌍💡
 
 🎓 B.Sc. in Computer Science - UFBA <br />
@@ -15,23 +13,16 @@ Computer Science student with a passion for challenges and problem-solving. Alwa
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-jorge-novaes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavojorge080@gmail.com)
 
-<br />
-
-<div style="display: flex;">
-    <img width="49%" 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=gustavojorge&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Fraga GitHub stats" 
-    />
-    <img width="49%" 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojorge&layout=compact&theme=dracula"
-    />
-</div>
-
+### Stats
 ---
 
-### Languages and Tools
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavojorge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavojorge&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+### Languages and Tools
+---
   <img 
     align="left" 
     alt="cplusplus" 
