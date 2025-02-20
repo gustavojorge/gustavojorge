@@ -7,8 +7,7 @@ Computer Science student with a passion for challenges and problem-solving. Alwa
 
 📚 Researcher in Multiobjective Optimization and Artificial Intelligence - UFBA
 
-👨‍💻 Currently studying Mobile Development with Flutter <br />
-📱  Mobile Developer Trainee at TITAN - Empresa Júnior de Engenharia da Computação <br />
+👨‍💻 Currently studying Full Stack Development <br />
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-jorge-novaes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavojorge080@gmail.com)
@@ -43,21 +42,4 @@ Computer Science student with a passion for challenges and problem-solving. Alwa
     height="40" 
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-  />  
-
-  <img 
-    align="left" 
-      alt="dart" 
-      title="dart" 
-      height="40" 
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-  />
-
-  <img 
-    align="left" 
-    alt="flutter" 
-    title="flutter" 
-    height="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
   />          
